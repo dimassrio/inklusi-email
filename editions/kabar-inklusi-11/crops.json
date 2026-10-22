@@ -1,0 +1,21 @@
+{
+  "transparent": true,
+  "crops": [
+    { "file": "news-01.png", "source": "source/berita-page1.png", "x0": 0, "y0": 0, "x1": 306, "y1": 215 },
+    { "file": "news-02.png", "source": "source/berita-page1.png", "x0": 0, "y0": 247, "x1": 306, "y1": 462 },
+    { "file": "news-03.png", "source": "source/berita-page1.png", "x0": 0, "y0": 500, "x1": 306, "y1": 716 },
+    { "file": "news-04.png", "source": "source/berita-page2.png", "x0": 0, "y0": 0, "x1": 304, "y1": 214 },
+    { "file": "news-05.png", "source": "source/berita-page2.png", "x0": 0, "y0": 243, "x1": 304, "y1": 457 },
+    { "file": "news-06.png", "source": "source/berita-page2.png", "x0": 0, "y0": 479, "x1": 304, "y1": 693 },
+    { "file": "news-07.png", "source": "source/berita-page2.png", "x0": 0, "y0": 710, "x1": 304, "y1": 932 },
+
+    { "file": "story-01.png", "source": "source/cerita.png", "x0": 0, "y0": 0, "x1": 288, "y1": 235 },
+    { "file": "story-02.png", "source": "source/cerita.png", "x0": 0, "y0": 307, "x1": 288, "y1": 528 },
+    { "file": "story-03.png", "source": "source/cerita.png", "x0": 0, "y0": 621, "x1": 288, "y1": 839 },
+
+    { "file": "product-01.png", "source": "source/produk-acara.png", "x0": 0, "y0": 0, "x1": 140, "y1": 180 },
+    { "file": "product-02.png", "source": "source/produk-acara.png", "x0": 330, "y0": 0, "x1": 500, "y1": 180 },
+    { "file": "product-03.png", "source": "source/produk-acara.png", "x0": 30, "y0": 330, "x1": 280, "y1": 485 },
+    { "file": "product-04.png", "source": "source/produk-acara.png", "x0": 430, "y0": 330, "x1": 623, "y1": 485 }
+  ]
+}

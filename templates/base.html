@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/transitional.dtd">
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <!--[if gte mso 15]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>*|MC:SUBJECT|*</title>
+    <style type="text/css">
+        /* Mobile enhancement for clients that support media queries.
+           Classic Outlook desktop keeps the table fallback below. */
+        @media only screen and (max-width: 480px) {
+            .story-stack-column {
+                display: inline-block !important;
+                width: 100% !important;
+                max-width: 400px !important;
+            }
+
+            .story-stack-image {
+                width: 100% !important;
+                max-width: 376px !important;
+            }
+
+            .enh-stack-cell,
+            .enh-stack-text,
+            .enh-stack-product-text,
+            .enh-stack-cover-cell {
+                display: block !important;
+                width: 100% !important;
+                max-width: 400px !important;
+            }
+
+            .enh-stack-text,
+            .enh-stack-product-text {
+                padding: 12px !important;
+            }
+
+            .enh-stack-cover-cell {
+                text-align: center !important;
+            }
+
+            .enh-stack-image {
+                width: 100% !important;
+                max-width: 376px !important;
+            }
+
+            .enh-stack-cover-image {
+                width: 70% !important;
+                max-width: 220px !important;
+            }
+        }
+    </style>
+</head>
+
+<body style="margin:0; padding:0; width:100%; background-color:#ffffff; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; background-color:#ffffff; margin:0; padding:0; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+        <tr>
+            <td align="center" valign="top" style="margin:0; padding:0; vertical-align:top;">
+                <table role="presentation" width="660" cellspacing="0" cellpadding="0" border="0" style="width:100%; max-width:660px; border-collapse:collapse; margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                    <tr>
+                        <td style="padding:0; vertical-align:top;">
+                            <img src="{{imageBase}}/{{images.header}}" alt="{{headerAlt}}" width="660" style="display:block; width:100%; max-width:660px; height:auto; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:12px 0; text-align:center; vertical-align:top;">
+                            <img src="{{imageBase}}/{{images.dividerNews}}" alt="Bagian Berita" width="240" style="display:inline-block; width:240px; max-width:100%; height:auto; margin:12px 0; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                        </td>
+                    </tr>
+                    {{#news}}
+                    <tr>
+                        <td style="{{^first}}padding-top:12px; {{/first}}vertical-align:top;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    <td width="50%" valign="top" align="center" class="enh-stack-cell" style="width:50%; vertical-align:top; padding:0 12px; text-align:center;">
+                                        <img src="{{imageBase}}/{{image}}" alt="{{alt}}" width="330" class="enh-stack-image" style="display:inline-block; width:100%; max-width:330px; height:auto; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                                    </td>
+                                    <td width="50%" valign="top" class="enh-stack-text" style="width:50%; padding:0 12px; vertical-align:top;">
+                                        <h4 style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:14px; font-weight:bold; color:{{colors.primary}}; text-align:left;">{{title}}</h4>
+                                        <p style="margin:12px 0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#000000; text-align:justify; mso-line-height-rule:exactly;">{{body}}</p>
+                                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                            {{#links}}
+                                            <tr>
+                                                <td valign="top" align="center" style="padding:0 0 8px; text-align:center; vertical-align:top;">
+                                                    {{> cta-primary}}
+                                                </td>
+                                            </tr>
+                                            {{/links}}
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    {{/news}}
+                    <tr>
+                        <td style="padding:12px 0; text-align:center; vertical-align:top;">
+                            <img src="{{imageBase}}/{{images.dividerStory}}" alt="Bagian cerita dimulai." width="240" style="display:inline-block; width:240px; max-width:100%; height:auto; margin:12px 0; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                        </td>
+                    </tr>
+                    {{#stories}}
+                    <tr>
+                        <td style="padding:0 12px 12px 12px; border-radius:20px; vertical-align:top;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse;background-color:{{bg}};border-radius:20px; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    <td style="padding:0; font-size:0; text-align:center; vertical-align:top;">
+                                        <!--[if mso]>
+                                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                            <tr>
+                                                <td width="50%" valign="top" style="padding:12px;">
+                                        <![endif]-->
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" class="story-stack-column" style="display:inline-block; width:100%; max-width:312px; vertical-align:top; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                            <tr>
+                                                <td valign="top" style="padding:12px; vertical-align:top;">
+                                                    <h4 style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:14px; font-weight:bold; color:{{textColor}}; text-align:left;">{{title}}</h4>
+                                                    <p style="margin:12px 0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:{{textColor}}; text-align:justify; mso-line-height-rule:exactly;">{{quote}} <strong>{{attribution}}</strong></p>
+                                                    <p style="margin:12px 0 0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:{{textColor}}; text-align:justify; mso-line-height-rule:exactly;">{{body}}</p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--[if mso]>
+                                                </td>
+                                                <td width="50%" valign="top" style="padding:12px;">
+                                        <![endif]-->
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" class="story-stack-column" style="display:inline-block; width:100%; max-width:312px; vertical-align:top; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                            <tr>
+                                                <td valign="top" style="padding:12px; vertical-align:top;">
+                                                    <img src="{{imageBase}}/{{image}}" alt="{{alt}}" width="288" class="story-stack-image" style="display:block; width:100%; max-width:288px; height:auto; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                                                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; margin-top:12px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                        <tr>
+                                                            <td align="center" style="text-align:center; vertical-align:top;">
+                                                                {{#link}}{{> cta-white}}{{/link}}
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--[if mso]>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <![endif]-->
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    {{/stories}}
+                    <tr>
+                        <td style="padding:12px 0; text-align:center; vertical-align:top;">
+                            <img src="{{imageBase}}/{{images.dividerProduct}}" alt="Bagian Produk Pengetahuan dimulai" width="300" style="display:inline-block; width:300px; max-width:100%; height:auto; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                        </td>
+                    </tr>
+{{#hasProductBand}}
+                    <tr>
+                        <td style="padding:12px 0; background-color:{{colors.yellow}}; vertical-align:top;">
+{{#productBand}}
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%;{{^first}} margin-top:12px;{{/first}} border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    <td width="50%" valign="top" align="center" class="enh-stack-cover-cell" style="width:50%; text-align:center; vertical-align:top;">
+                                        <img src="{{imageBase}}/{{image}}" alt="{{alt}}" width="165" class="enh-stack-cover-image" style="display:inline-block; width:50%; max-width:165px; height:auto; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                                    </td>
+                                    <td width="50%" valign="top" class="enh-stack-product-text" style="width:50%; padding:0 48px 0 0; vertical-align:top;">
+                                        <h4 style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:14px; font-weight:bold; color:{{colors.primary}}; text-align:left;">{{title}}</h4>
+                                        <p style="margin:12px 0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:{{colors.primary}}; text-align:justify; mso-line-height-rule:exactly;">{{body}}</p>
+                                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                            <tr>
+                                                <td align="center" style="text-align:center; vertical-align:top;">
+                                                    {{#link}}{{> cta-primary}}{{/link}}
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+{{/productBand}}
+                        </td>
+                    </tr>
+{{/hasProductBand}}
+{{#productPlain}}
+                    <tr>
+                        <td style="padding-top:{{topPad}}; vertical-align:top;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    <td width="50%" valign="top" align="center" class="enh-stack-cover-cell" style="width:50%; text-align:center; vertical-align:top;">
+                                        <img src="{{imageBase}}/{{image}}" alt="{{alt}}" width="165" class="enh-stack-cover-image" style="display:inline-block; width:50%; max-width:165px; height:auto; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                                    </td>
+                                    <td width="50%" valign="top" class="enh-stack-product-text" style="width:50%; padding:0 48px 0 0; vertical-align:top;">
+                                        <h4 style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:14px; font-weight:bold; color:{{colors.primary}}; text-align:left;">{{title}}</h4>
+                                        <p style="margin:12px 0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#000000; text-align:justify; mso-line-height-rule:exactly;">{{body}}</p>
+                                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                            <tr>
+                                                <td align="center" style="text-align:center; vertical-align:top;">
+                                                    {{#link}}{{> cta-primary}}{{/link}}
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+{{/productPlain}}
+                    <tr>
+                        <td style="padding-top:12px; vertical-align:top;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; background-color:{{colors.dark}}; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    {{#downloads}}
+                                    <td width="50%" valign="top" align="center" style="width:50%; padding:12px 0; text-align:center; vertical-align:top;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="border-collapse:separate; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                            <tr>
+                                                <td align="center" bgcolor="{{color}}" style="background-color:{{color}}; border-radius:6px; mso-padding-alt:12px 16px 12px 16px; text-align:center;">
+                                                    <a href="{{url}}" target="_blank" style="display:block; padding:12px 16px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#ffffff; text-decoration:none; text-align:center;">{{label}}</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    {{/downloads}}
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:12px; background-color:{{colors.primary}}; vertical-align:top;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    <td width="50%" valign="top" align="center" style="width:50%; padding:12px 0; text-align:center; vertical-align:top;">
+                                        <h5 style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:20px; font-weight:bold; color:#FFFFFF; letter-spacing:1px;">{{footer.tagline}}</h5>
+                                        <h5 style="margin:8px 0 0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; font-style:italic; font-weight:normal; color:{{colors.red}};">{{footer.taglineSub}}</h5>
+                                    </td>
+                                    <td width="50%" valign="top" align="center" style="width:50%; text-align:center; vertical-align:top;">
+                                        <img src="{{imageBase}}/{{images.logo}}" alt="Logo Inklusi" width="165" style="display:inline-block; width:50%; max-width:165px; height:auto; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;">
+                                    </td>
+                                </tr>
+                            </table>
+                            <p style="margin:12px 0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#ffffff; text-align:justify; mso-line-height-rule:exactly;">{{footer.description}}</p>
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    <td valign="top" style="border-top:5px solid {{colors.red}}; line-height:0; font-size:0;">&nbsp;</td>
+                                </tr>
+                            </table>
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                <tr>
+                                    <td valign="top" style="vertical-align:top;">
+                                        <h5 style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:20px; font-weight:900; color:{{colors.yellow}};">KONTAK</h5>
+                                    </td>
+                                    <td valign="top" style="vertical-align:top;">
+                                        <p style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#ffffff; text-align:right; mso-line-height-rule:exactly;"><a href="mailto:{{footer.email}}" style="color:#ffffff; text-decoration:none;">✉ {{footer.email}}</a></p>
+                                    </td>
+                                    <td valign="top" style="vertical-align:top;">
+                                        <p style="margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#ffffff; text-align:right; mso-line-height-rule:exactly;"><a href="{{footer.websiteUrl}}" style="color:#ffffff; text-decoration:none;">🌐 {{footer.websiteLabel}}</a></p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <p style="text-align: center; font-family: Arial, sans-serif; font-size: 11px; color: #666666; margin-bottom: 10px;">
+        {{footer.archiveNote}}
+        <a href="*|ARCHIVE|*" target="_blank" style="color: #003366; text-decoration: underline;">
+            {{footer.archiveLabel}}
+        </a>
+    </p>
+</body>
+
+</html>

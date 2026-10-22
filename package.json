@@ -1,0 +1,25 @@
+{
+  "name": "04-06-2026",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "edition": "kabar-inklusi-10",
+  "scripts": {
+    "build": "bun scripts/build.ts",
+    "build:all": "bun scripts/build.ts --all",
+    "validate": "bun scripts/validate.ts",
+    "extract": "python3 scripts/extract_images.py",
+    "deploy": "bun scripts/deploy.ts",
+    "dev": "bun scripts/build.ts && http-server dist -o /kabar-inklusi-10/index.html"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bestzip": "^3.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

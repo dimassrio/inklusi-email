@@ -1,0 +1,160 @@
+{
+  "edition": "kabar-inklusi-10",
+  "subject": "Kabar Inklusi Edisi 10 — April–Juni 2026",
+  "colors": {
+    "primary": "#22346a",
+    "navy": "#273269",
+    "yellow": "#FEBC22",
+    "red": "#b43446",
+    "dark": "#333333",
+    "white": "#ffffff"
+  },
+  "images": {
+    "header": "header.gif",
+    "dividerNews": "divider-news.png",
+    "dividerStory": "divider-story.png",
+    "dividerProduct": "divider-product.png",
+    "logo": "logo.gif"
+  },
+  "headerAlt": "Kabar Inklusi 10, April sampai dengan Juni 2026, Leave no one behind, kerjasama antara Kementrian PPN/Bappenas, Australian Government dan Inklusi",
+  "news": [
+    {
+      "image": "news-01.jpg",
+      "alt": "Duta Besar Australia untuk Indonesia, Rod Brazier berdiskusi dengan kelompok rentan.",
+      "title": "Dubes Australia Lihat Dampak Program INKLUSI di Balikpapan dan Medan",
+      "body": "Duta Besar Australia untuk Indonesia, Rod Brazier, mengunjungi Balikpapan dan Medan untuk melihat langsung pelaksanaan Program INKLUSI bersama mitra lokal. Kunjungan ini menyoroti upaya memperkuat inklusi disabilitas, perlindungan perempuan, serta akses layanan dan peluang yang lebih setara bagi kelompok rentan.",
+      "links": [
+        { "label": "Baca Artikel 1", "url": "https://s.id/KunjunganDubesAus-Permampu" },
+        { "label": "Baca Artikel 2", "url": "https://s.id/KunjunganDubesAus-PPDI" }
+      ]
+    },
+    {
+      "image": "news-02.jpg",
+      "alt": "Moderator dan pembicara sedang berdiskusi di panggung Lokakarya Inklusi dan Kemnaker",
+      "title": "Lokakarya INKLUSI dan Kemnaker Dorong Akses Kerja Inklusif bagi Lansia",
+      "body": "Kementerian Ketenagakerjaan bersama INKLUSI mempertemukan pemerintah, dunia usaha, organisasi masyarakat sipil, dan kelompok lansia, untuk membahas perluasan akses kerja bagi lansia yang masih potensial dan ingin tetap produktif.",
+      "links": [
+        { "label": "Baca Artikel", "url": "http://s.id/INKLUSIKemnaker" }
+      ]
+    },
+    {
+      "image": "news-03.jpg",
+      "alt": "Perwakilan Konsorsium PERMAMPU, Lakpesdam PBNU, dan Institut KAPAL Perempuan berfoto bersama di acara Women Deliver 2026 di Naarm (Melbourne)",
+      "title": "Mitra INKLUSI Bawa Suara Perempuan Akar Rumput ke Women Deliver 2026",
+      "body": "Perwakilan Konsorsium PERMAMPU, Lakpesdam PBNU, dan Institut KAPAL Perempuan membawa pengalaman perempuan akar rumput Indonesia ke Women Deliver 2026 di Naarm (Melbourne). Partisipasi ini menjadi ruang untuk berbagi praktik baik, memperluas jejaring, dan menegaskan pentingnya kepemimpinan perempuan serta suara kelompok marginal dalam pembangunan inklusif.",
+      "links": [
+        { "label": "Baca Artikel", "url": "http://s.id/WomenDeliver_ID" }
+      ]
+    },
+    {
+      "image": "news-04.png",
+      "alt": "Peserta fasilitasi penanganan tindak pidana kekerasan seksual berperspektif korban sedang berdiskusi.",
+      "title": "INKLUSI dan AIPJ3 Dukung Penanganan Kekerasan Seksual Berperspektif Korban",
+      "body": "INKLUSI bersama Kemitraan Australia-Indonesia untuk Keadilan Tahap 3 (AIPJ3) mendukung pelatihan fasilitator penanganan tindak pidana kekerasan seksual yang diselenggarakan KemenPPPA dan BPSDM. Pelatihan ini memperkuat kapasitas aparat penegak hukum dan tenaga layanan dalam penanganan kekerasan seksual yang inklusif, non-diskriminatif, dan berperspektif korban.",
+      "links": [
+        { "label": "Baca Artikel", "url": "http://s.id/INKLUSI-AIPJ3" }
+      ]
+    },
+    {
+      "image": "news-05.png",
+      "alt": "Peserta Pertemuan Koordinasi Teknis Kelompok Kerja (Pokja) Fase II Program INKLUSI (2026-2029) berfoto bersama di akhir sesi acara",
+      "title": "Memperkuat Sinergi Lintas Sektor untuk Fase II Program INKLUSI",
+      "body": "INKLUSI bersama Kementerian PPN/Bappenas menyelenggarakan Pertemuan Koordinasi Teknis Kelompok Kerja (Pokja) untuk memperkuat sinergi lintas sektor untuk menyelaraskan pelaksanaan Fase II Program INKLUSI (2026-2029). Pertemuan ini menjadi ruang berbagi pembelajaran, memperkuat kolaborasi, dan memperluas dampak upaya kesetaraan gender, hak penyandang disabilitas, dan inklusi sosial.",
+      "links": [
+        { "label": "Baca Artikel", "url": "http://s.id/KoordinasiPokjaFase2" }
+      ]
+    },
+    {
+      "image": "news-06.jpg",
+      "alt": "Kelompok rentan sedang dimintai keterangan oleh beberapa jurnalis.",
+      "title": "Media Melihat Praktik Pembangunan Inklusif Tingkat Desa Lombok Timur",
+      "body": "Sejumlah jurnalis media nasional dan lokal mengunjungi Desa Kembang Kerang, Lombok Timur, untuk melihat praktik pembangunan inklusif yang didorong Yayasan BaKTI dan Lombok Research Center melalui Program INKLUSI. Kunjungan ini menyoroti partisipasi kelompok rentan, akses layanan perlindungan, dan pemberdayaan ekonomi di tingkat desa.",
+      "links": [
+        { "label": "Baca Artikel", "url": "https://s.id/MediaVisitLombok" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "theme": "navy",
+      "textColor": "#ffffff",
+      "title": "Dari Prapatan, Mendorong Layanan yang Lebih Inklusif",
+      "quote": "\"Sekarang akses kantor kelurahan jauh lebih mudah dan sangat membantu teman-teman disabilitas.\"",
+      "attribution": "- Untung Slamet, Ketua KDK Prapatan",
+      "body": "Didampingi SIGAB Indonesia dan PPDI Kalimantan Timur, KDK Prapatan memperjuangkan layanan publik yang lebih aksesibel di Balikpapan. Bersama pemerintah kelurahan, mereka mendorong perbaikan fasilitas sekaligus memastikan penyandang disabilitas ikut bersuara dalam pembangunan.",
+      "image": "story-01.png",
+      "alt": "Inspeksi aksesibilitas layanan publik di Balikpapan",
+      "link": { "label": "Baca Artikel", "url": "http://s.id/KDK-Prapatan" }
+    },
+    {
+      "theme": "yellow",
+      "textColor": "#22346a",
+      "title": "Di Bawah Pohon, Perempuan Kupang Belajar Menamai Tubuh dan Haknya",
+      "quote": "\"Di Musrenbang, laki-laki dominan. Setelah ikut Sekolah Perempuan, saya jadi berani berbicara. Pendapat kami mulai didengar.\"",
+      "attribution": "- Marini, anggota Sekolah Perempuan.",
+      "body": "Melalui Sekolah Perempuan, Institut KAPAL Perempuan dan PEKA PM membuka ruang aman bagi perempuan Kabupaten Kupang untuk memahami tubuh, mengenali hak, dan berani bersuara. Pos pengaduan PEKA PM juga membantu perempuan mengakses layanan ketika menghadapi kekerasan.",
+      "image": "story-02.png",
+      "alt": "Peserta sekolah perempuan sedang berdiskusi di bawah pohon",
+      "link": { "label": "Baca Artikel", "url": "http://s.id/SekolahPerempuanPEKA-PMKupang" }
+    },
+    {
+      "theme": "red",
+      "textColor": "#ffffff",
+      "title": "Kepemimpinan Desa Sumba Timur yang Berani Mengubah Tradisi",
+      "quote": "\"Percuma kalau hanya satu desa yang berubah. Warga masih akan menghadapi tekanan yang sama.\"",
+      "attribution": "- Yohanis K. Maramba Hamu, Kepala Desa Mbatakapidu, Sumba Timur",
+      "body": "Bersama Lembaga Bumi Lestari, Yohanis K. Maramba Hamu memimpin upaya memperkuat partisipasi perempuan, mendukung usaha warga, mencegah kekerasan, dan menyederhanakan praktik adat yang membebani masyarakat.",
+      "image": "story-03.png",
+      "alt": "Kepala Desa Sumba Timur yang Berani Mengubah Tradisi",
+      "link": { "label": "Baca Artikel", "url": "http://s.id/KepalaDesaSumbaTimur" }
+    }
+  ],
+  "products": [
+    {
+      "band": true,
+      "image": "product-01.png",
+      "alt": "Cover buku panduan menuju sekolah inklusif.",
+      "title": "Panduan Menuju Sekolah Inklusif",
+      "body": "Disusun oleh 'Aisyiyah, BaKTI, SIGAB, dan Pusat Rehabilitasi YAKKUM dengan dukungan INKLUSI, Modul Pendidikan Inklusif membantu tenaga pendidik dan lembaga pendidikan menciptakan pembelajaran yang lebih setara dan aksesibel bagi semua peserta didik, termasuk penyandang disabilitas.",
+      "link": { "label": "Unduh Di Sini", "url": "http://s.id/ModulPendidikanInklusif" }
+    },
+    {
+      "band": true,
+      "image": "product-02.png",
+      "alt": "Cover buku Risalah kebijakan Optimalisasi Layanan Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak (UPTD PPA).",
+      "title": "Memperkuat Layanan Perlindungan Perempuan dan Anak",
+      "body": "Risalah Kebijakan: Optimalisasi Layanan Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak (UPTD PPA) adalah hasil kolaborasi 'Aisyiyah, KAPAL Perempuan, Lakpesdam PBNU, PERMAMPU, dan Yayasan BaKTI. Publikasi ini memuat rekomendasi untuk memperkuat pelaksanaan Perpres No. 55/2024 serta mendorong layanan yang lebih terpadu, efektif, dan berpusat pada penyintas.",
+      "link": { "label": "Unduh Di Sini", "url": "http://s.id/RisalahKebijakan-UPTDPPA" }
+    },
+    {
+      "band": false,
+      "image": "product-03.png",
+      "alt": "Cover buku Fikih Penguatan Disabilitas Mental Psikososial",
+      "title": "Fikih Penguatan Disabilitas Mental Psikososial:",
+      "body": "Fikih Penguatan Disabilitas Mental Psikososial: Dari Pemahaman Keagamaan Menuju Pemenuhan Hak dan Keadilan Sosial diterbitkan oleh Komisi Nasional Disabilitas dan Kementerian Sosial RI bersama Lakpesdam PBNU, P3M, dan PR YAKKUM melalui Program INKLUSI. Publikasi ini memadukan perspektif keagamaan, hak asasi manusia, dan keadilan sosial untuk memperkuat penghormatan terhadap martabat dan hak penyandang disabilitas psikososial.",
+      "link": { "label": "Unduh Di Sini", "url": "http://s.id/FikihPenguatanDisabilitasMental" }
+    },
+    {
+      "band": false,
+      "image": "product-04.png",
+      "alt": "Cover buku Modul Bimbingan Remaja Usia Sekolah (BRUS)",
+      "title": "Membekali Remaja Mengambil Keputusan",
+      "body": "Modul Bimbingan Remaja Usia Sekolah (BRUS) diterbitkan oleh Lakpesdam PBNU sebagai adaptasi modul Kementerian Agama RI untuk mendukung upaya-upaya pencegahan perkawinan anak melalui Program INKLUSI. Modul ini membantu fasilitator membekali remaja agar memahami diri, membangun relasi sehat, dan merencanakan masa depan.",
+      "link": { "label": "Unduh Di Sini", "url": "http://s.id/SuarayangSeringDiabaikan" }
+    }
+  ],
+  "downloads": [
+    { "label": "↓ Unduh versi lengkap PDF<br>(Bahasa Indonesia)", "url": "https://inklusi.or.id/id/publikasi/nawala/nawala-kabar-inklusi-10", "color": "#B43446" },
+    { "label": "↓ Download full PDF<br>(English)", "url": "https://inklusi.or.id/publications/newsletter/kabar-inklusi-newsletter-10", "color": "#B43446" }
+  ],
+  "footer": {
+    "tagline": "LEAVE NO ONE BEHIND",
+    "taglineSub": "Tidak Ada Satu Pun yang Tertinggal",
+    "description": "Kemitraan Australia-Indonesia Menuju Masyarakat yang Inklusif, atau INKLUSI, berupaya meningkatkan partisipasi kelompok-kelompok terpinggirkan dalam pembangunan sosial-budaya, ekonomi, dan politik di Indonesia, serta memastikan mereka memperoleh manfaat yang lebih setara dari pembangunan tersebut. INKLUSI bekerja sama dengan pemerintah dan mitra-mitra masyarakat sipil untuk mendorong kesetaraan gender, pemenuhan hak-hak penyandang disabilitas, dan inklusi sosial. Program ini mendukung agenda Pemerintah Indonesia dalam mewujudkan masyarakat yang inklusif, sejalan dengan rencana pembangunan nasional dan Tujuan Pembangunan Berkelanjutan. INKLUSI merupakan program kemitraan antara Pemerintah Indonesia dan Pemerintah Australia yang berlangsung selama delapan tahun (2021-2029), dengan anggaran hingga AUD 120 juta. Pada Fase 2 (2026-2029), program ini bekerja dengan 10 organisasi masyarakat sipil nasional Indonesia beserta jaringan mereka yang tersebar di 32 provinsi, >100 kabupaten/kota, dan >600 desa.",
+    "email": "info@inklusi.or.id",
+    "websiteLabel": "www.inklusi.or.id",
+    "websiteUrl": "https://www.inklusi.or.id",
+    "archiveNote": "Is this email not displaying correctly?",
+    "archiveLabel": "View it in your web browser"
+  }
+}

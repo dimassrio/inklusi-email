@@ -1,0 +1,168 @@
+{
+  "edition": "kabar-inklusi-11",
+  "subject": "Kabar Inklusi Edisi 11 — Juli–September 2026",
+  "colors": {
+    "primary": "#22346a",
+    "navy": "#273269",
+    "yellow": "#FEBC22",
+    "red": "#b43446",
+    "dark": "#333333",
+    "white": "#ffffff"
+  },
+  "images": {
+    "header": "header.png",
+    "dividerNews": "divider-news.png",
+    "dividerStory": "divider-story.png",
+    "dividerProduct": "divider-product.png",
+    "logo": "logo.gif"
+  },
+  "headerAlt": "Kabar Inklusi 11, Juli sampai dengan September 2026, Leave no one behind, kerjasama antara Kementerian PPN/Bappenas, Australian Government dan Inklusi",
+  "news": [
+    {
+      "image": "news-01.png",
+      "alt": "Perwakilan Kemnaker dan INKLUSI berfoto bersama usai kegiatan di Tasikmalaya",
+      "title": "Kemnaker dan INKLUSI Buka Peluang Kerja bagi Lansia di Tasikmalaya",
+      "body": "Kementerian Tenaga Kerja dan INKLUSI menguji coba modul yang membantu tenaga kerja lanjut usia potensial (TKLUP) mengakses pekerjaan dan usaha sesuai pengalaman, keterampilan, dan kebutuhan mereka. Bersama 'Aisyiyah, INKLUSI juga memperluas pelatihan, pendampingan, serta akses kerja dan usaha bagi lansia dan penyandang disabilitas di Kota dan Kabupaten Tasikmalaya.",
+      "links": [
+        { "label": "Baca Artikel", "url": "https://s.id/INKLUSIKemnakerModulLansia" }
+      ]
+    },
+    {
+      "image": "news-02.png",
+      "alt": "Peserta peluncuran Panduan Optimalisasi ULD Bidang Ketenagakerjaan berfoto bersama",
+      "title": "Kemnaker dan SIGAB Perkuat ULD untuk Perluas Kesempatan Kerja Disabilitas",
+      "body": "Kementerian Ketenagakerjaan bersama SIGAB, dengan dukungan INKLUSI, meluncurkan Panduan Optimalisasi ULD Bidang Ketenagakerjaan untuk memperkuat layanan ketenagakerjaan yang lebih inklusif. Panduan ini menjadi acuan praktis untuk memperluas akses penyandang disabilitas terhadap pekerjaan yang layak dan lingkungan kerja yang aksesibel.",
+      "links": [
+        { "label": "Baca Artikel", "url": "https://s.id/SIGABKemnaker" }
+      ]
+    },
+    {
+      "image": "news-03.png",
+      "alt": "Peserta lokakarya menempel catatan pada dinding tentang penerapan safeguarding",
+      "title": "INKLUSI dan Mitra Perkuat Penerapan Safeguarding dalam Pelaksanaan Program",
+      "body": "INKLUSI bersama 10 mitra organisasi masyarakat sipil memperkuat penerapan safeguarding dalam pelaksanaan program, termasuk perlindungan anak, pencegahan eksploitasi, kekerasan dan pelecehan seksual (PSEAH), serta tata kelola keuangan. Upaya ini mendorong program yang lebih aman, bertanggung jawab, dan menghormati hak setiap orang.",
+      "links": [
+        { "label": "Baca Artikel", "url": "https://s.id/SafeguardingMitraINKLUSI" }
+      ]
+    },
+    {
+      "image": "news-04.png",
+      "alt": "Suasana diskusi studi kolaborasi OMS–Pemerintah untuk GEDSI",
+      "title": "INKLUSI dan SKALA Bahas Studi Kolaborasi OMS–Pemerintah untuk GEDSI",
+      "body": "INKLUSI dan Program SKALA membahas studi kolaborasi OMS dan pemerintah dalam mengarusutamakan GEDSI pada perencanaan dan penganggaran daerah. Temuan studi—yang diinisiasi Direktorat KPPA Kementerian PPN/Bappenas, dilaksanakan SMERU Research Institute, dan didukung SKALA—dipadukan dengan pengalaman Mitra INKLUSI untuk memperkuat strategi program dan advokasi kebijakan serta layanan inklusif.",
+      "links": [
+        { "label": "Baca Artikel", "url": "https://s.id/KolaborasiOMS-Pemerintah" }
+      ]
+    },
+    {
+      "image": "news-05.png",
+      "alt": "Layanan konseling kesehatan dan hak seksual reproduksi bagi perempuan lansia",
+      "title": "Hari Kesehatan Seksual Internasional 2026: PERMAMPU Dorong Pemenuhan HKSR Perempuan Lansia",
+      "body": "Dalam peringatan Hari Kesehatan Seksual Internasional 2026, Konsorsium PERMAMPU menggelar diskusi tentang kesehatan dan hak seksual dan reproduksi (HKSR) perempuan lansia dan pralansia. Didukung INKLUSI, kegiatan ini membahas kebutuhan mereka akan informasi, ruang aman, dan layanan yang sesuai, sekaligus mendorong advokasi kebijakan yang lebih responsif.",
+      "links": [
+        { "label": "Baca Artikel", "url": "https://s.id/HKSR2026" }
+      ]
+    },
+    {
+      "image": "news-06.png",
+      "alt": "Petugas kesehatan memeriksa kondisi perempuan lansia dalam layanan perawatan komunitas",
+      "title": "Dari Komunitas hingga Kebijakan, INKLUSI dan Mitra Perkuat Perawatan Lansia",
+      "body": "Dalam forum bersama pemerintah, mitra pembangunan, dan organisasi internasional, INKLUSI dan Kemendukbangga/BKKBN membahas respons terhadap perubahan demografi berbasis siklus kehidupan. INKLUSI berbagi pembelajaran tentang layanan perawatan lansia berbasis komunitas, penguatan kapasitas keluarga dan pemberi perawatan, serta pengembangan modul perawatan jangka panjang.",
+      "links": [
+        { "label": "Baca Artikel", "url": "https://s.id/PenguatanPerawatanLansiaINKLUSI" }
+      ]
+    },
+    {
+      "image": "news-07.png",
+      "alt": "Poster Call for Applications Pelatihan Jurnalisme Inklusif",
+      "title": "Open Call: Pelatihan Jurnalisme Inklusif untuk Jurnalis Lokal",
+      "body": "Sekretariat INKLUSI dan Perhimpunan Pengembangan Media Nusantara (PPMN) mengadakan Media Fellowship pada Oktober–Desember 2026. Program ini membekali jurnalis media lokal untuk meliput isu GEDSI secara inklusif, etis, dan aman melalui pelatihan, mentoring, dukungan peliputan, hingga publikasi karya.",
+      "links": [
+        { "label": "Informasi Pendaftaran", "url": "https://s.id/JurnalismeInklusif-PPMN" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "theme": "navy",
+      "textColor": "#ffffff",
+      "title": "Ternak Kambing Tumbuhkan Harapan dan Kemandirian Penyandang Disabilitas di Lombok Timur",
+      "quote": "\"Kandang ini bukan sekadar tempat beternak, tetapi simbol perubahan, semangat, dan harapan kami.\"",
+      "attribution": "- Sahrul, Ketua SHG",
+      "body": "Kelompok Swabantu (Self-Help Group/SHG) di Desa Selebung Ketangga, Lombok Timur, yang beranggotakan penyandang disabilitas dan keluarga mereka, kini mengelola usaha ternak kambing. Digagas oleh Pusat Rehabilitasi YAKKUM dan LIDI Foundation dengan dukungan INKLUSI, usaha ini sudah menghasilkan pendapatan dan menjadi langkah awal menuju kemandirian ekonomi.",
+      "image": "story-01.png",
+      "alt": "Kelompok swabantu penyandang disabilitas mengelola kandang ternak kambing di Lombok Timur",
+      "link": { "label": "Baca Artikel", "url": "https://s.id/CeritaSHGLombok" }
+    },
+    {
+      "theme": "yellow",
+      "textColor": "#22346a",
+      "title": "Terasi Lajut: Usaha Bersama Kuatkan Perempuan Purna Pekerja Migran",
+      "quote": "\"Sejak bergabung dengan kelompok, kami menjadi lebih bersemangat. Kami mendapatkan pelatihan, pengalaman, dan jaringan baru untuk memasarkan produk.\"",
+      "attribution": "- Raihana, anggota kelompok usaha DESBUMI",
+      "body": "Perempuan purna pekerja migran dan keluarganya di Desa Lajut, Lombok Timur, menjual terasi olahan mereka sebagai usaha bersama. Dengan pendampingan Migrant CARE dan dukungan INKLUSI, mereka memperoleh penghasilan dan pembelajaran bisnis serta pemasaran. Terasi Lajut telah menjadi salah satu produk unggulan desa dan memperkuat posisi anggota dalam memperjuangkan hak pekerja migran dan keluarganya.",
+      "image": "story-02.png",
+      "alt": "Perempuan purna pekerja migran membuat terasi bersama di Desa Lajut",
+      "link": { "label": "Baca Artikel", "url": "https://s.id/CeritaTerasiLajut" }
+    },
+    {
+      "theme": "red",
+      "textColor": "#ffffff",
+      "title": "Oemah Konseling Membuka Jalan Pulang bagi Anak yang Berhadapan dengan Hukum",
+      "quote": "\"Melalui Oemah Konseling, kami belajar saling mendengarkan dan berkomunikasi lebih terbuka. Sekarang saya merasa lebih siap mendampingi anak ketika kembali ke rumah.\"",
+      "attribution": "- Sularto, Orang Tua Anak ABH",
+      "body": "Oemah Konseling memberikan dukungan psikologis bagi anak di LPKA Kelas II Yogyakarta dan keluarganya untuk memperkuat hubungan serta mempersiapkan kepulangan. Dengan pendampingan PKBI DIY, layanan ini membantu anak merasa didukung dan orang tua lebih siap mendampingi mereka saat kembali ke rumah.",
+      "image": "story-03.png",
+      "alt": "Kegiatan konseling bersama anak dan keluarga di LPKA Yogyakarta",
+      "link": { "label": "Baca Artikel", "url": "TODO_EDISI11_CERITA_OEMAH_KONSELING_URL" }
+    }
+  ],
+  "products": [
+    {
+      "band": true,
+      "image": "product-01.png",
+      "alt": "Cover riset Dampak Perubahan Iklim terhadap Masyarakat Adat",
+      "title": "Dampak Perubahan Iklim terhadap Perempuan Adat",
+      "body": "Riset KEMITRAAN dengan dukungan INKLUSI ini mengkaji dampak perubahan iklim terhadap masyarakat adat, khususnya perempuan adat, di Mentawai, Talang Mamak, Bara dan Cindakko, Baduy, dan Kasepuhan. Hasilnya menyoroti keterkaitan krisis iklim dengan ketimpangan sosial, ketidakadilan gender, eksploitasi sumber daya alam, dan lemahnya pengakuan hak adat, serta peran perempuan adat dalam menjaga ketahanan komunitas lewat pengetahuan lokal dan praktik hidup berkelanjutan.",
+      "link": { "label": "Baca Artikel", "url": "https://s.id/ModulPerubahanIklimMasyarakatAdat" }
+    },
+    {
+      "band": true,
+      "image": "product-02.png",
+      "alt": "Cover buku Panduan Layanan Pencegahan dan Penanganan Perkawinan Anak yang Inklusif pada Kantor Urusan Agama",
+      "title": "Panduan KUA untuk Mencegah dan Menangani Perkawinan Anak secara Inklusif",
+      "body": "Buku Panduan Layanan Pencegahan dan Penanganan Perkawinan Anak yang Inklusif pada Kantor Urusan Agama ini disusun Lakpesdam PBNU dengan dukungan INKLUSI untuk memperkuat peran Kantor Urusan Agama (KUA) dalam mencegah dan menangani perkawinan anak. Disusun bersama Kementerian Agama, KUA, dan Penyuluh Agama, panduan ini mendorong layanan yang sensitif gender, ramah anak, dan inklusif, sekaligus menjadi acuan praktis bagi aparatur KUA.",
+      "link": { "label": "Baca Artikel", "url": "https://s.id/RisalahKebijakan-UPTDPPA" }
+    },
+    {
+      "band": false,
+      "image": "product-03.png",
+      "alt": "Tangkapan layar diskusi Bincang INKLUSI: Membaca Desil DTSEN dari Perspektif GEDSI",
+      "title": "Bincang INKLUSI: Membaca Desil DTSEN dari Perspektif GEDSI",
+      "body": "Diskusi ini membahas dampak penempatan desil dalam Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) terhadap akses program perlindungan sosial, khususnya bagi kelompok marginal. Peserta juga menyoroti pemutakhiran data dan ruang perbaikan agar pendataan dan penargetan lebih akurat dan inklusif.",
+      "link": { "label": "Simak Siaran Ulang", "url": "https://s.id/BincangINKLUSI-DesilDTSEN" }
+    },
+    {
+      "band": false,
+      "image": "product-04.png",
+      "alt": "Tangkapan layar diskusi Inspirasi BaKTI: Menimbang Peluang dan Tantangan AI untuk Pembangunan",
+      "title": "Inspirasi BaKTI: Menimbang Peluang dan Tantangan AI untuk Pembangunan",
+      "body": "Dalam diskusi bersama SAFEnet yang didukung INKLUSI, Inspirasi BaKTI membahas potensi AI untuk mendorong pembangunan inklusif dan berkelanjutan, serta risiko yang perlu diantisipasi. Diskusi juga menekankan pentingnya penggunaan AI yang etis, aman, dan berpihak pada masyarakat.",
+      "link": { "label": "Simak Siaran Ulang", "url": "https://s.id/BaKTI-AIDalamPembangunan" }
+    }
+  ],
+  "downloads": [
+    { "label": "↓ Unduh versi lengkap PDF<br>(Bahasa Indonesia)", "url": "TODO_EDISI11_PDF_ID_URL", "color": "#B43446" },
+    { "label": "↓ Download full PDF<br>(English)", "url": "TODO_EDISI11_PDF_EN_URL", "color": "#B43446" }
+  ],
+  "footer": {
+    "tagline": "LEAVE NO ONE BEHIND",
+    "taglineSub": "Tidak Ada Satu Pun yang Tertinggal",
+    "description": "Kemitraan Australia-Indonesia Menuju Masyarakat yang Inklusif, atau INKLUSI, berupaya meningkatkan partisipasi kelompok-kelompok terpinggirkan dalam pembangunan sosial-budaya, ekonomi, dan politik di Indonesia, serta memastikan mereka memperoleh manfaat yang lebih setara dari pembangunan tersebut. INKLUSI bekerja sama dengan pemerintah dan mitra-mitra masyarakat sipil untuk mendorong kesetaraan gender, pemenuhan hak-hak penyandang disabilitas, dan inklusi sosial. Program ini mendukung agenda Pemerintah Indonesia dalam mewujudkan masyarakat yang inklusif, sejalan dengan rencana pembangunan nasional dan Tujuan Pembangunan Berkelanjutan. INKLUSI merupakan program kemitraan antara Pemerintah Indonesia dan Pemerintah Australia yang berlangsung selama delapan tahun (2021-2029), dengan anggaran hingga AUD 120 juta. Pada Fase 2 (2026-2029), program ini bekerja dengan 10 organisasi masyarakat sipil nasional Indonesia beserta jaringan mereka yang tersebar di 32 provinsi, >100 kabupaten/kota, dan >600 desa.",
+    "email": "info@inklusi.or.id",
+    "websiteLabel": "www.inklusi.or.id",
+    "websiteUrl": "https://www.inklusi.or.id",
+    "archiveNote": "Is this email not displaying correctly?",
+    "archiveLabel": "View it in your web browser"
+  }
+}
